@@ -1,0 +1,96 @@
+[submodule "airflow-operator"]
+	path = airflow-operator
+	url = git@github.com:stackabletech/airflow-operator.git
+[submodule "beku.py"]
+	path = beku.py
+	url = git@github.com:stackabletech/beku.py.git
+[submodule "ci"]
+	path = ci
+	url = git@github.com:stackabletech/ci.git
+[submodule "commons-operator"]
+	path = commons-operator
+	url = git@github.com:stackabletech/commons-operator.git
+[submodule "docker-images"]
+	path = docker-images
+	url = git@github.com:stackabletech/docker-images.git
+[submodule "documentation"]
+	path = documentation
+	url = git@github.com:stackabletech/documentation.git
+[submodule "druid-operator"]
+	path = druid-operator
+	url = git@github.com:stackabletech/druid-operator.git
+[submodule "edc-operator"]
+	path = edc-operator
+	url = git@github.com:stackabletech/edc-operator.git
+[submodule "hbase-gis"]
+	path = hbase-gis
+	url = git@github.com:stackabletech/hbase-gis.git
+[submodule "hbase-operator"]
+	path = hbase-operator
+	url = git@github.com:stackabletech/hbase-operator.git
+[submodule "hdfs-operator"]
+	path = hdfs-operator
+	url = git@github.com:stackabletech/hdfs-operator.git
+[submodule "hello-world-operator"]
+	path = hello-world-operator
+	url = git@github.com:stackabletech/hello-world-operator.git
+[submodule "hive-operator"]
+	path = hive-operator
+	url = git@github.com:stackabletech/hive-operator.git
+[submodule "image-tools"]
+	path = image-tools
+	url = git@github.com:stackabletech/image-tools.git
+[submodule "kafka-operator"]
+	path = kafka-operator
+	url = git@github.com:stackabletech/kafka-operator.git
+[submodule "listener-operator"]
+	path = listener-operator
+	url = git@github.com:stackabletech/listener-operator.git
+[submodule "nifi-operator"]
+	path = nifi-operator
+	url = git@github.com:stackabletech/nifi-operator.git
+[submodule "opa-bundle-builder"]
+	path = opa-bundle-builder
+	url = git@github.com:stackabletech/opa-bundle-builder.git
+[submodule "opa-operator"]
+	path = opa-operator
+	url = git@github.com:stackabletech/opa-operator.git
+[submodule "openshift-certified-operators"]
+	path = openshift-certified-operators
+	url = git@github.com:stackabletech/openshift-certified-operators.git
+[submodule "operator-rs"]
+	path = operator-rs
+	url = git@github.com:stackabletech/operator-rs.git
+[submodule "operator-templating"]
+	path = operator-templating
+	url = git@github.com:stackabletech/operator-templating.git
+[submodule "product-config"]
+	path = product-config
+	url = git@github.com:stackabletech/product-config.git
+[submodule "release-summarizer"]
+	path = release-summarizer
+	url = git@github.com:stackabletech/release-summarizer.git
+[submodule "secret-operator"]
+	path = secret-operator
+	url = git@github.com:stackabletech/secret-operator.git
+[submodule "spark-k8s-operator"]
+	path = spark-k8s-operator
+	url = git@github.com:stackabletech/spark-k8s-operator.git
+[submodule "stackable-cockpit"]
+	path = stackable-cockpit
+	url = git@github.com:stackabletech/stackable-cockpit.git
+[submodule "stackablectl"]
+	path = stackablectl
+	url = git@github.com:stackabletech/stackablectl.git
+[submodule "superset-operator"]
+	path = superset-operator
+	url = git@github.com:stackabletech/superset-operator.git
+[submodule "trino-operator"]
+	path = trino-operator
+	url = git@github.com:stackabletech/trino-operator.git
+[submodule "zookeeper-operator"]
+	path = zookeeper-operator
+	url = git@github.com:stackabletech/zookeeper-operator.git
+[submodule "sbernauer-customers"]
+	path = sbernauer-customers
+	url = git@github.com:stackabletech/sbernauer-customers.git
