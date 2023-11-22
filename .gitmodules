@@ -97,3 +97,6 @@
 [submodule "stackable-utils"]
 	path = stackable-utils
 	url = git@github.com:stackabletech/stackable-utils.git
+[submodule "crddocs-generator"]
+	path = crddocs-generator
+	url = git@github.com:stackabletech/crddocs-generator.git
