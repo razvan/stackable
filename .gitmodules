@@ -67,9 +67,6 @@
 [submodule "product-config"]
 	path = product-config
 	url = git@github.com:stackabletech/product-config.git
-[submodule "release-summarizer"]
-	path = release-summarizer
-	url = git@github.com:stackabletech/release-summarizer.git
 [submodule "secret-operator"]
 	path = secret-operator
 	url = git@github.com:stackabletech/secret-operator.git
