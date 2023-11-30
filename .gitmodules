@@ -1,96 +1,128 @@
 [submodule "airflow-operator"]
 	path = airflow-operator
 	url = git@github.com:stackabletech/airflow-operator.git
+	branch = main
 [submodule "beku.py"]
 	path = beku.py
 	url = git@github.com:stackabletech/beku.py.git
+	branch = main
 [submodule "ci"]
 	path = ci
 	url = git@github.com:stackabletech/ci.git
+	branch = main
 [submodule "commons-operator"]
 	path = commons-operator
 	url = git@github.com:stackabletech/commons-operator.git
+	branch = main
 [submodule "docker-images"]
 	path = docker-images
 	url = git@github.com:stackabletech/docker-images.git
+	branch = main
 [submodule "documentation"]
 	path = documentation
 	url = git@github.com:stackabletech/documentation.git
+	branch = main
 [submodule "druid-operator"]
 	path = druid-operator
 	url = git@github.com:stackabletech/druid-operator.git
+	branch = main
 [submodule "edc-operator"]
 	path = edc-operator
 	url = git@github.com:stackabletech/edc-operator.git
+	branch = main
 [submodule "hbase-gis"]
 	path = hbase-gis
 	url = git@github.com:stackabletech/hbase-gis.git
+	branch = main
 [submodule "hbase-operator"]
 	path = hbase-operator
 	url = git@github.com:stackabletech/hbase-operator.git
+	branch = main
 [submodule "hdfs-operator"]
 	path = hdfs-operator
 	url = git@github.com:stackabletech/hdfs-operator.git
+	branch = main
 [submodule "hello-world-operator"]
 	path = hello-world-operator
 	url = git@github.com:stackabletech/hello-world-operator.git
+	branch = main
 [submodule "hive-operator"]
 	path = hive-operator
 	url = git@github.com:stackabletech/hive-operator.git
+	branch = main
 [submodule "image-tools"]
 	path = image-tools
 	url = git@github.com:stackabletech/image-tools.git
+	branch = main
 [submodule "kafka-operator"]
 	path = kafka-operator
 	url = git@github.com:stackabletech/kafka-operator.git
+	branch = main
 [submodule "listener-operator"]
 	path = listener-operator
 	url = git@github.com:stackabletech/listener-operator.git
+	branch = main
 [submodule "nifi-operator"]
 	path = nifi-operator
 	url = git@github.com:stackabletech/nifi-operator.git
+	branch = main
 [submodule "opa-bundle-builder"]
 	path = opa-bundle-builder
 	url = git@github.com:stackabletech/opa-bundle-builder.git
+	branch = main
 [submodule "opa-operator"]
 	path = opa-operator
 	url = git@github.com:stackabletech/opa-operator.git
+	branch = main
 [submodule "openshift-certified-operators"]
 	path = openshift-certified-operators
 	url = git@github.com:stackabletech/openshift-certified-operators.git
+	branch = main
 [submodule "operator-rs"]
 	path = operator-rs
 	url = git@github.com:stackabletech/operator-rs.git
+	branch = main
 [submodule "operator-templating"]
 	path = operator-templating
 	url = git@github.com:stackabletech/operator-templating.git
+	branch = main
 [submodule "product-config"]
 	path = product-config
 	url = git@github.com:stackabletech/product-config.git
+	branch = main
 [submodule "secret-operator"]
 	path = secret-operator
 	url = git@github.com:stackabletech/secret-operator.git
+	branch = main
 [submodule "spark-k8s-operator"]
 	path = spark-k8s-operator
 	url = git@github.com:stackabletech/spark-k8s-operator.git
+	branch = main
 [submodule "stackable-cockpit"]
 	path = stackable-cockpit
 	url = git@github.com:stackabletech/stackable-cockpit.git
+	branch = main
 [submodule "stackablectl"]
 	path = stackablectl
 	url = git@github.com:stackabletech/stackablectl.git
+	branch = main
 [submodule "superset-operator"]
 	path = superset-operator
 	url = git@github.com:stackabletech/superset-operator.git
+	branch = main
 [submodule "trino-operator"]
 	path = trino-operator
 	url = git@github.com:stackabletech/trino-operator.git
+	branch = main
 [submodule "zookeeper-operator"]
 	path = zookeeper-operator
 	url = git@github.com:stackabletech/zookeeper-operator.git
+	branch = main
 [submodule "sbernauer-customers"]
 	path = sbernauer-customers
 	url = git@github.com:stackabletech/sbernauer-customers.git
+	branch = main
 [submodule "stackable-utils"]
 	path = stackable-utils
 	url = git@github.com:stackabletech/stackable-utils.git
+	branch = main
