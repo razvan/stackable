@@ -126,3 +126,7 @@
 	path = stackable-utils
 	url = git@github.com:stackabletech/stackable-utils.git
 	branch = main
+[submodule "xfsc-ocm-engine"]
+	path = xfsc-ocm-engine
+	url = git@github.com:stackabletech/xfsc-ocm-engine.git
+	branch = main
