@@ -130,3 +130,7 @@
 	path = xfsc-ocm-engine
 	url = git@github.com:stackabletech/xfsc-ocm-engine.git
 	branch = main
+[submodule "hdfs-topology-provider"]
+	path = hdfs-topology-provider
+	url = git@github.com:stackabletech/hdfs-topology-provider.git
+	branch = main
