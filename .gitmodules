@@ -134,3 +134,7 @@
 	path = hdfs-topology-provider
 	url = git@github.com:stackabletech/hdfs-topology-provider.git
 	branch = main
+[submodule "feature-tracker"]
+	path = feature-tracker
+	url = git@github.com:stackabletech/feature-tracker.git
+	branch = main
