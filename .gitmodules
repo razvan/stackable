@@ -138,3 +138,6 @@
 	path = feature-tracker
 	url = git@github.com:stackabletech/feature-tracker.git
 	branch = main
+[submodule "trino-lb"]
+	path = trino-lb
+	url = git@github.com:stackabletech/trino-lb.git
