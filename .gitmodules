@@ -141,3 +141,6 @@
 [submodule "trino-lb"]
 	path = trino-lb
 	url = git@github.com:stackabletech/trino-lb.git
+[submodule "demos"]
+	path = demos
+	url = git@github.com:stackabletech/demos.git
