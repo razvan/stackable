@@ -102,10 +102,6 @@
 	path = stackable-cockpit
 	url = git@github.com:stackabletech/stackable-cockpit.git
 	branch = main
-[submodule "stackablectl"]
-	path = stackablectl
-	url = git@github.com:stackabletech/stackablectl.git
-	branch = main
 [submodule "superset-operator"]
 	path = superset-operator
 	url = git@github.com:stackabletech/superset-operator.git
