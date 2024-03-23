@@ -140,3 +140,6 @@
 [submodule "demos"]
 	path = demos
 	url = git@github.com:stackabletech/demos.git
+[submodule "release"]
+	path = release
+	url = git@github.com:stackabletech/release.git
