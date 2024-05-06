@@ -143,3 +143,6 @@
 [submodule "release"]
 	path = release
 	url = git@github.com:stackabletech/release.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = git@github.com:stackabletech/infrastructure.git
