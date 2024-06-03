@@ -146,3 +146,6 @@
 [submodule "infrastructure"]
 	path = infrastructure
 	url = git@github.com:stackabletech/infrastructure.git
+[submodule "hbase-opa-authorizer"]
+	path = hbase-opa-authorizer
+	url = git@github.com:stackabletech/hbase-opa-authorizer.git
