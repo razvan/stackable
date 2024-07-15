@@ -18,10 +18,6 @@
 	path = docker-images
 	url = git@github.com:stackabletech/docker-images.git
 	branch = main
-[submodule "documentation"]
-	path = documentation
-	url = git@github.com:stackabletech/documentation.git
-	branch = main
 [submodule "druid-operator"]
 	path = druid-operator
 	url = git@github.com:stackabletech/druid-operator.git
