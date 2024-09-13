@@ -145,3 +145,7 @@
 [submodule "hbase-opa-authorizer"]
 	path = hbase-opa-authorizer
 	url = git@github.com:stackabletech/hbase-opa-authorizer.git
+[submodule "ny-tlc-report"]
+	path = ny-tlc-report
+	url = git@github.com:stackabletech/ny-tlc-report.git
+	branch = main
