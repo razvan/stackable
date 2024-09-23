@@ -149,3 +149,6 @@
 	path = ny-tlc-report
 	url = git@github.com:stackabletech/ny-tlc-report.git
 	branch = main
+[submodule "containerdebug"]
+	path = containerdebug
+	url = git@github.com:stackabletech/containerdebug.git
